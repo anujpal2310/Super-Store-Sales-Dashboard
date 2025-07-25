@@ -75,3 +75,7 @@ Additional focus on Washington, Pennsylvania, Ohio, etc.
 🔁 Shipping Optimization:- Determine most used ship modes for cost and delivery optimization.
 🔮 Forecast-Driven Decisions:- Predict demand and align inventory and campaigns for upcoming weeks.
 
+### 7. Screenshot
+
+Show what the dashboard looks like. - ![Alt text](https://github.com/anujpal2310/Super-Store-Sales-Dashboard/blob/main/ANuj_super-sales_Dashboard.png)
+Show what the dashboard looks like. - ![Alt text](https://github.com/anujpal2310/Super-Store-Sales-Dashboard/blob/main/Anuj-Super_sales_Dashboard2.png)
